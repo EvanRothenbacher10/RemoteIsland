@@ -1,0 +1,3 @@
+class island:
+    population = None
+    
